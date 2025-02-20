@@ -1,0 +1,1 @@
+It is an application that I made using a few crates for self-development, where the user receives basic & coloured feedback to the answers given by the interaction from the terminal, and finally can visualise the quiz score with a process bar.
